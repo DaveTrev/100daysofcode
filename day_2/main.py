@@ -83,3 +83,12 @@ print(3 * 3 + 3 / 3 -3)
 # use instead
 # score += 1
 # print(score)
+
+#print("your score is " + str(score))
+#use f string
+
+# score = 0
+# height = 1.8
+# isWinning = True
+# #f"your score is "
+# #f"your score is {score}, your height s {height, you are winning is {isWinning}} "
