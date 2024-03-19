@@ -1,10 +1,19 @@
-import random
+# import random
 
-random_integer = random.randint(1, 10)
-print(random_integer)
+# random_integer = random.randint(1, 10)
+# print(random_integer)
 
-random_float = random.random()
-print(random_float)
+# random_float = random.random()
+# print(random_float)
 
-love_score = random.randint(1, 100)
-print(f"Your love score is {love_score}")
+# love_score = random.randint(1, 100)
+# print(f"Your love score is {love_score}")
+
+
+# import random
+
+# headsortails = random.randint(0, 1)
+# if headsortails == 1:
+#   print("Heads")
+# else:
+#   print("Tails")
